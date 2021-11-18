@@ -1,6 +1,6 @@
 # Underactuated Manipulator Robot Control via H2, H∞, H2/H∞, and μ-Synthesis Approaches: a Comparative Study
 
-This project is a simple simulation of the below journal in MATLAB with the same name as the project. This project was done as the final project of the Robust Control university course.
+This project is a simple simulation of the below journal in MATLAB with the same name as the project. This project was done as the final project of my Robust Control university course.
 
 Siqueira, A.A.G. & Terra, M.H. & Ishihara, Joao & Barbeiro, Tacio. (2009). Underactuated Manipulator Robot Control via H-2, H-infinity,H-2/H-infinity, and mu-Synthesis Approaches: a Comparative Study. Journal of the Brazilian Society of Mechanical Sciences and Engineering. 31. 279-288.
 
