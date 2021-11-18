@@ -182,7 +182,7 @@ legend('S','T','Loop gain');
 
 %% H2 Controller Design :
 
-[K_H2, sys_CL_H2, gamma_H2, INFO_H2] = hinfsyn(P,Kp_n,Kp_n)
+[K_H2, sys_CL_H2, gamma_H2, INFO_H2] = h2syn(P,Kp_n,Kp_n)
 K_H2_tf = tf(K_H2)
 
 figure(1);
